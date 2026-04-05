@@ -10,15 +10,15 @@
 //           <div>
 //             <div className="flex items-center gap-2 mb-4">
 //               <Image
-//                 src="/lendingclubLogo.svg"
-//                 alt="Yuba Lend Logo"
+//                 src="/flexilendLogo.svg"
+//                 alt="Flexi Lend Logo"
 //                 width={180}
 //                 height={40}
 //                 className="object-contain"
 //               />
 //             </div>
 //             <p className="text-gray-400 text-sm leading-relaxed font-bold">
-//               Yuba Lend is a trusted direct lender providing personal loans
+//               Flexi Lend is a trusted direct lender providing personal loans
 //               with transparent terms and competitive rates. We are committed to
 //               helping you achieve your financial goals.
 //             </p>
@@ -93,7 +93,7 @@
 //                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
 //                   />
 //                 </svg>
-//                 <span>support@lendingclub.com</span>
+//                 <span>support@flexilend.com</span>
 //               </div>
 //               <div className="flex items-start gap-3">
 //                 <svg
@@ -170,8 +170,8 @@
 //             ))}
 //           </div>
 //           <p className="text-center text-gray-500 text-sm font-bold">
-//             &copy; {new Date().getFullYear()} Yuba Lend. All rights reserved.
-//             Yuba Lend is a registered Direct Lender.
+//             &copy; {new Date().getFullYear()} Flexi Lend. All rights reserved.
+//             Flexi Lend is a registered Direct Lender.
 //           </p>
 //         </div>
 //       </div>
@@ -191,20 +191,20 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               {/* <Image
-                src="/lendingclubLogo.svg"
-                alt="Yuba Lend Logo"
+                src="/flexilendLogo.svg"
+                alt="Flexi Lend Logo"
                 width={180}
                 height={40}
                 className="object-contain"
               /> */}
               <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">Y</span>
+                <span className="text-white font-bold text-xl">F</span>
               </div>
-              <span className="text-xl font-bold">Yuba Lend</span>
+              <span className="text-xl font-bold">Flexi Lend</span>
             </div>
             <p className="text-[#0077b3] text-sm leading-relaxed font-bold">
-              Yuba Lend is a trusted direct lender providing personal loans with
-              transparent terms and competitive rates. We are committed to
+              Flexi Lend is a trusted direct lender providing personal loans
+              with transparent terms and competitive rates. We are committed to
               helping you achieve your financial goals.
             </p>
           </div>
@@ -278,7 +278,7 @@ export default function Footer() {
                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                <span>support@lendingclub.com</span>
+                <span>support@flexilend.com</span>
               </div>
               <div className="flex items-start gap-3">
                 <svg
@@ -355,8 +355,8 @@ export default function Footer() {
             ))}
           </div>
           <p className="text-center text-[#0077b3] font-bold text-sm">
-            &copy; {new Date().getFullYear()} Yuba Lend. All rights reserved.
-            Yuba Lend is a registered Direct Lender.
+            &copy; {new Date().getFullYear()} Flexi Lend. All rights reserved.
+            Flexi Lend is a registered Direct Lender.
           </p>
         </div>
       </div>

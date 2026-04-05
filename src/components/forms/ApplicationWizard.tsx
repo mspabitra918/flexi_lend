@@ -231,7 +231,7 @@ export default function ApplicationWizard() {
   //           Service Not Available
   //         </h2>
   //         <p className="text-text-secondary">
-  //           Lending Club is currently available only in the United States. We
+  //           Flexi Lend is currently available only in the United States. We
   //           apologize for the inconvenience.
   //         </p>
   //       </div>

@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import type { ApplicationData } from "../ApplicationWizard";
-import { LOAN_PURPOSES, LOAN_LIMITS } from "@/lib/constants";
-import { formatCurrency } from "@/lib/utils";
+import { LOAN_LIMITS, LOAN_PURPOSES } from "@/src/lib/constants";
+import { formatCurrency } from "@/src/lib/utils";
 
 function calcMonthlyPayment(amount: number, termMonths: number): number {
   const monthlyRate = 0.1 / 12;

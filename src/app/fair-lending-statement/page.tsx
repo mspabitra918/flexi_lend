@@ -31,12 +31,12 @@ export default function FairLendingPage() {
                   Equal Opportunity Lender
                 </h2>
                 <p>
-                  {SITE_NAME} is an Lending Club and is committed to fair
-                  lending practices. We provide equal access to credit for all
-                  qualified borrowers regardless of race, color, religion,
-                  national origin, sex, marital status, age (provided the
-                  applicant has the capacity to enter into a binding contract),
-                  familial status, disability, or because all or part of the
+                  {SITE_NAME} is an Flexi Lend and is committed to fair lending
+                  practices. We provide equal access to credit for all qualified
+                  borrowers regardless of race, color, religion, national
+                  origin, sex, marital status, age (provided the applicant has
+                  the capacity to enter into a binding contract), familial
+                  status, disability, or because all or part of the
                   applicant&apos;s income derives from any public assistance
                   program.
                 </p>

@@ -1,8 +1,8 @@
-export const SITE_NAME = "Lending Club";
-export const SITE_URL = "https://www.lendingclubs.com";
+export const SITE_NAME = "Flexi Lend";
+export const SITE_URL = "https://www.flexilends.com";
 export const SITE_DESCRIPTION =
-  "Lending Club is a direct personal loan provider offering competitive rates for debt consolidation, home improvement, medical expenses, and more. Apply online in minutes.";
-export const BUSINESS_EMAIL = "support@lendingclubs.com";
+  "Flexi Lend is a direct personal loan provider offering competitive rates for debt consolidation, home improvement, medical expenses, and more. Apply online in minutes.";
+export const BUSINESS_EMAIL = "support@flexilends.com";
 
 export const BUSINESS_PHONE = "(747) 200-5228";
 

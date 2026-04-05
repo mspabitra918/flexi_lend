@@ -8,7 +8,7 @@ export function CTABanner() {
           Take Control of Your Finances Today
         </h2>
         <p className="text-white/80 text-lg mb-8 max-w-2xl mx-auto">
-          Join thousands of satisfied borrowers who chose Lending Club for their
+          Join thousands of satisfied borrowers who chose Flexi Lend for their
           personal loan needs. Apply now with no impact on your credit score.
         </p>
         <Link

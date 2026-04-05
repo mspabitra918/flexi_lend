@@ -37,17 +37,17 @@ export default function Navbar() {
           <Link href="/" className="flex items-center gap-2">
             {/* <div className="w-40 h-10 flex items-center justify-center">
               <Image
-                src="/lendingclubLogo.svg"
-                alt="Lending Club Logo"
+                src="/flexilendLogo.svg"
+                alt="Flexi Lend Logo"
                 width={180}
                 height={40}
                 className="object-contain"
               />
             </div> */}
             <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">Y</span>
+              <span className="text-white font-bold text-xl">F</span>
             </div>
-            <span className="text-xl font-bold text-primary">Yuba Lend</span>
+            <span className="text-xl font-bold text-primary">Flexi Lend</span>
 
             <span
               className={`text-xl font-bold transition-colors ${

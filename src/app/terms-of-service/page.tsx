@@ -1,7 +1,7 @@
+import Footer from "@/src/components/layout/Footer";
+import Navbar from "@/src/components/layout/Navbar";
+import { BUSINESS_EMAIL, SITE_NAME, SITE_URL } from "@/src/lib/constants";
 import type { Metadata } from "next";
-import { SITE_NAME, BUSINESS_EMAIL, SITE_URL } from "@/lib/constants";
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
   title: "Terms of Service",

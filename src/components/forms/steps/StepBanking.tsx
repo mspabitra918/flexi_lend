@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from "react";
 import type { ApplicationData } from "../ApplicationWizard";
-import { bankingSchema, extractFieldErrors } from "@/lib/validation";
-import { ACCOUNT_TYPES } from "@/lib/constants";
+import { bankingSchema, extractFieldErrors } from "@/src/lib/validation";
+import { ACCOUNT_TYPES } from "@/src/lib/constants";
 // import { apiUrl } from "@/lib/api";
 
 interface Props {

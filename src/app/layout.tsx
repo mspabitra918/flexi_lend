@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Lending Club - Personal Loans Made Simple",
+  title: "Flexi Lend - Personal Loans Made Simple",
   description:
     "Get personal loans from $2,000 to $50,000 with competitive rates. Fast approval, transparent terms, and funding in as little as 24 hours.",
   keywords:

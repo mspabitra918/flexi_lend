@@ -3,8 +3,8 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import { setOptions, importLibrary } from "@googlemaps/js-api-loader";
 import type { ApplicationData } from "../ApplicationWizard";
-import { addressSchema, extractFieldErrors } from "@/lib/validation";
-import { US_STATES } from "@/lib/constants";
+import { addressSchema, extractFieldErrors } from "@/src/lib/validation";
+import { US_STATES } from "@/src/lib/constants";
 
 interface Props {
   data: ApplicationData;

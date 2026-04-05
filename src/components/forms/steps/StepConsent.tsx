@@ -3,8 +3,8 @@
 import { useState } from "react";
 import Link from "next/link";
 import type { ApplicationData } from "../ApplicationWizard";
-import { maskSSN, maskAccountNumber, formatCurrency } from "@/lib/utils";
-import { LOAN_PURPOSES, SITE_NAME } from "@/lib/constants";
+import { LOAN_PURPOSES, SITE_NAME } from "@/src/lib/constants";
+import { formatCurrency, maskAccountNumber, maskSSN } from "@/src/lib/utils";
 
 interface Props {
   data: ApplicationData;

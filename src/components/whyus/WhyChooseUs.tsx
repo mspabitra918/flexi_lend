@@ -40,7 +40,7 @@ export function WhyChooseUs() {
             Why Choose Us
           </span>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-dark mt-2">
-            The Lending Club Advantage
+            The Flexi Lend Advantage
           </h2>
           <p className="text-gray-500 mt-3 max-w-xl mx-auto">
             We make borrowing simple, transparent, and fast so you can focus on
