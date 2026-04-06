@@ -3,7 +3,6 @@
 import { useState, useEffect, useCallback } from "react";
 import dynamic from "next/dynamic";
 import emailjs from "@emailjs/browser";
-import { getUTMParams } from "@/lib/utils";
 // import { apiUrl } from "@/lib/api";
 
 // ── EmailJS config ──────────────────────────────────────

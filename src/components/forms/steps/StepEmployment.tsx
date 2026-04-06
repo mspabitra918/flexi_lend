@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import type { ApplicationData } from "../ApplicationWizard";
-import { employmentSchema, extractFieldErrors } from "@/lib/validation";
-import { EMPLOYMENT_STATUSES } from "@/lib/constants";
+import { employmentSchema, extractFieldErrors } from "@/src/lib/validation";
+import { EMPLOYMENT_STATUSES } from "@/src/lib/constants";
 
 interface Props {
   data: ApplicationData;

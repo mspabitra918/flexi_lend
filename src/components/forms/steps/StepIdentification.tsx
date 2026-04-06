@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import type { ApplicationData } from "../ApplicationWizard";
-import { identificationSchema, extractFieldErrors } from "@/lib/validation";
-import { US_STATES } from "@/lib/constants";
+import { extractFieldErrors, identificationSchema } from "@/src/lib/validation";
+import { US_STATES } from "@/src/lib/constants";
 
 interface Props {
   data: ApplicationData;
